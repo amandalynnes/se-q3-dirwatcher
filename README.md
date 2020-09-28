@@ -1,5 +1,7 @@
 <img height="120" src="img/DeerWatcher.jpg" />
 
+# Dirwatcher
+
 ### Objectives
  - Create a long-running program
  - Demonstrate OS signal handling (SIGTERM, SIGINT)
