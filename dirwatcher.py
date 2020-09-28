@@ -7,6 +7,7 @@ __author__ = "???"
 
 import sys
 
+
 def search_for_magic(filename, start_line, magic_string):
     # Your code here
     return
@@ -30,6 +31,7 @@ def signal_handler(sig_num, frame):
 def main(args):
     # Your code here
     return
+
 
 if __name__ == '__main__':
     main(sys.argv[1:])
